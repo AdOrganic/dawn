@@ -2007,7 +2007,7 @@ details[open] > .header__icon--menu .icon-hamburger {
 }
 
 .header__menu-item:hover {
-  color: rgb(var(--color-foreground));
+  color: rgb(var(--color-base-accent-1));
 }
 
 .header__menu-item span {
